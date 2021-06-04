@@ -2,7 +2,7 @@
 
 ## Goal
 
-Small script for detecting street lanes one videos by OpenCV
+Small script for detecting street lanes on videos by OpenCV
 
 # Tasks:
 
